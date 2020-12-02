@@ -3,9 +3,6 @@
 ## Group Member
 Warren Weber
 
-## Project Type
-I completed a C project
-
 ## Live link to microblog tutorial project
 https://flask-microblog4131.herokuapp.com/
 
